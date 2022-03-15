@@ -1,4 +1,4 @@
-## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40'/> Hi there, I'm Agung
+## ![hi](https://github.com/agungnursatria/agungnursatria/blob/main/img/Hi.gif) Hi there, I'm Agung
 ![version :15.03.2022](https://img.shields.io/badge/version-15.03.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=agungnursatria&color=red)&nbsp;
 [![GitHub agungnursatria](https://img.shields.io/github/followers/agungnursatria?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
