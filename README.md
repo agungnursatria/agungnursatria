@@ -33,7 +33,7 @@
 <a href="mailto:agungnursatria@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/agungnursatria"><img src="https://img.shields.io/badge/-@agungnursatria_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-![snake svg](https://github.com/agungnursatria/agungnursatria/img/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/agungnursatria/agungnursatria/blob/main/img/github-contribution-grid-snake.svg)
 
 <!--
 **agungnursatria/agungnursatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
