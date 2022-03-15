@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 💬 I'm Indonesian Engineer
 - 🔭 I’m currently working on Fazzfinancial Group
-- 🌱 I’m currently still focusing on Flutter
+- 🌱 I’m currently focusing on Flutter
 - 💻 I'm founder of [Simpan App](https://play.google.com/store/apps/details?id=com.banyuw.simpan)
 - 🤔 I have 4 flutter packages
 - 🥅 2022 Goals: Finishing my master degree at University of Indonesia
