@@ -4,7 +4,9 @@
 [![GitHub agungnursatria](https://img.shields.io/github/followers/agungnursatria?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=agungnursatria&theme=dark&show_icons=true)
+![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=agungnursatria&theme=dark&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Agung's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agungnursatria&layout=compact&langs_count=8&hide_border=true&theme=dark)
+<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on Fazzfinancial Group
