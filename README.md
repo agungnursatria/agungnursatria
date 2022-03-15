@@ -4,6 +4,8 @@
 [![GitHub agungnursatria](https://img.shields.io/github/followers/agungnursatria?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
+![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=agungnursatria&theme=dark&show_icons=true)
+
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on Fazzfinancial Group
 - 🌱 I’m currently still focusing on Flutter
