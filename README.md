@@ -1,6 +1,6 @@
-<h1 align="left">Hi there, I'm Agung <img src="https://github.com/agungnursatria/agungnursatria/blob/main/img/Hi.gif" height="32" /></h1>
+<h1 align="left">Hi Fellow Developers <img src="https://github.com/agungnursatria/agungnursatria/blob/main/img/Hi.gif" height="32" /></h1>
 
-![version :26.03.2022](https://img.shields.io/badge/version-26.03.2022-informational) &nbsp;
+![version :09.05.2022](https://img.shields.io/badge/version-09.05.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=agungnursatria&color=red)&nbsp;
 [![GitHub agungnursatria](https://img.shields.io/github/followers/agungnursatria?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
